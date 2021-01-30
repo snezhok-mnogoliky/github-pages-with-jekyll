@@ -1,4 +1,4 @@
 ---
- title : "best title"
- Дата : 2020-01-30 
+title: "Your blog post title"
+date: 2020-01-30
 ---
